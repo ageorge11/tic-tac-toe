@@ -1,0 +1,13 @@
+svg {
+    border: 1px solid black;
+}
+
+line {
+    stroke: red; 
+    stroke-width: 1;
+}
+
+rect, polygon {
+    fill: yellow;
+    stroke: red;
+}
